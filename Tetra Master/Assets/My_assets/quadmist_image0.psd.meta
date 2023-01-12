@@ -1,0 +1,2481 @@
+fileFormatVersion: 2
+guid: e249b809c8a524ab7949407168dc4fc1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quadmist_image0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 1008
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ea033fc004545eaa8f339cf51c8c73
+      internalID: 1923708873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_1
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 968
+        width: 1008
+        height: 1080
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808a8190c86e0490d88092bcc1e9bd3e
+      internalID: 1501230041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_2
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2036
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dce479d6b1d444fa98f363890d7845
+      internalID: 621499388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_3
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2036
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222bfc65d10f548319e10a5897fd9aed
+      internalID: -1941369573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_4
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2022
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c89b70dbfc404101a32fb08d87ba0de
+      internalID: -1553447578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_5
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2022
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7775036b2a8b447fb1cc54d6a97d4a1
+      internalID: 807427517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_6
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2008
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad51246540134193b7617a1ef1ffd31
+      internalID: -1154209858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_7
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2008
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7834eeee700a54ea1b0bce812721994b
+      internalID: -1933166453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_8
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1998
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd974dc62ce5b44b282a370ee9835923
+      internalID: -494655155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 34
+        height: 694
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac770da0389fe4d7a8e24b9c4bcf2b02
+      internalID: 1594944047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 272
+        width: 34
+        height: 694
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103b08d88a05044faa8afa00df8fb837
+      internalID: -1043654862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 718
+        width: 204
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae278c5cec8864c858aecfbb548dd44b
+      internalID: -1702901600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 718
+        width: 204
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f51f96e520374578a091822b75c20d7
+      internalID: -1214109434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 793
+        width: 36
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a656b0585b234496ad5c2d90b78b347
+      internalID: 409263963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 793
+        width: 36
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0723bea635cf8418a8b88e2957a0ef5b
+      internalID: 696132828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 899
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec547faa0b2f5413ca32938d948afd01
+      internalID: 524429683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_16
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 944
+        width: 35
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebdfdb58cb1347f5862bae698c3b47b
+      internalID: -1334207929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_17
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 927
+        width: 757
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08487becae19c4648aaa8e8cddbd4cdf
+      internalID: -1570650721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_18
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 876
+        width: 86
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fe1eac47d14514bfd115c71a4825a
+      internalID: 240521026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 863
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4337cbae42ae7424fbea204584277a58
+      internalID: -1048830725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 863
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f3e010e3fb4cae843ba9a872e2747
+      internalID: 1889469947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_21
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 891
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985791fd79fd5471e85a9a5c422d3754
+      internalID: 1231575360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_22
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 891
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195cbb9d1f32546ec80dc564b32facdd
+      internalID: -1017973557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_23
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 891
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a536341736fa40daaa5ac349f32b022
+      internalID: -579682150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_24
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 891
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94eb4ff934f24eb4bde0e56ba1b0c2c
+      internalID: 1872614607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_25
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 891
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f76fa4095fb4f48b11973b454e5696
+      internalID: -1602340398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_26
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 827
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3d997102684bbeaf2165079357f1a
+      internalID: 1494148677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 827
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e21610687434d549276c43b43c63c8
+      internalID: -1945101499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_28
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 855
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e2891c156574eee858865ab15b2006
+      internalID: -1494084872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 855
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dabddfec82d34a489469c1b4b09d626
+      internalID: 13508285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 855
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12af8e849a45a4dc48d003a6a5203ef9
+      internalID: -866468822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_31
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 855
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c310cc1e4746b19e6998e57d03555
+      internalID: -446863705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_32
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 819
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1667a1c46480142a78990b31f88ab6fd
+      internalID: -2057985657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_33
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 819
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9192d2a9282e4e0a97c165aad0f9b6c
+      internalID: 1910741966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_34
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 819
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fdccc6f18a74fd1957e935443158f4
+      internalID: 1388591314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_35
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 819
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc6394bafd447a19f618b709eaea08
+      internalID: -1388805334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 468
+        width: 204
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051feef695ebd44d7ba7efc4ee78e91d
+      internalID: -588939148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_37
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 468
+        width: 204
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2570201c16954a269dca813bcd11a9f
+      internalID: 975199887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_38
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 618
+        width: 142
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8471aeac8659d4452af3bdb1dc384f56
+      internalID: -298758857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_39
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 618
+        width: 142
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5658cba3460e64c778218ae22b11b3ba
+      internalID: -890433284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_40
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 694
+        width: 92
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42061ba42ab24d22983185e0aa7bc97
+      internalID: 387693944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_41
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 670
+        width: 122
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b4ea36571d4d6c8368bfbfbc1eb73
+      internalID: -1256527973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_42
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 658
+        width: 128
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f641db960b974ccabd57ae19da90bc7
+      internalID: -1514109480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_43
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 644
+        width: 128
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1454daa6b6d824c4f8575a112563a07d
+      internalID: 687988415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_44
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 644
+        width: 124
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6269df462fca54a239f6a11b2a693859
+      internalID: -1033634351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_45
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 648
+        width: 118
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738b8b973b64c4b7f9ca58bef40f034c
+      internalID: -580779628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 553
+        width: 112
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60567135e204d56bd74053c31db6fe
+      internalID: 169510945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_48
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 550
+        width: 111
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12de5532d33a2456ebe0aeb7467eec7d
+      internalID: -1466635022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_49
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 551
+        width: 112
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e64e3bcf5334d769c8899e3136d198
+      internalID: 926473452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_50
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 549
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b3c3604bf8045959a29e10fce9f4f4
+      internalID: -514787053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_51
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 526
+        width: 114
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b1c946448a64fd1990c794fd185757
+      internalID: -282078159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_52
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 496
+        width: 124
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dabb6548856641b1a1371437bb60e76
+      internalID: -1825143847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_53
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 484
+        width: 126
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db14b93aa660946f7a4d6cab30fe4464
+      internalID: -1863540429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_54
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 482
+        width: 126
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d74000daed8e47cda8c4fa9d3876c11
+      internalID: -213435468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_55
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 486
+        width: 120
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d239c23c23bd402698f9b47ed5f88b1
+      internalID: -1335871464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_56
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 506
+        width: 99
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb31104eadf4f47b352b211ea9c267
+      internalID: -1529378362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_57
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 477
+        width: 112
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586151d1083444226bbe169c683682c5
+      internalID: 670582201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_58
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 475
+        width: 111
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffd5e16a03054b24b9d3a076570adb1
+      internalID: -1057851432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_59
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 478
+        width: 114
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5cf2d6399fd4e98be8e1187fc6ddde
+      internalID: -260965153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_60
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 480
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5a6b612534438a98cd83765e508d1
+      internalID: 1187091985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 283
+        width: 342
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0f578bfe8b47c0a3ea4f91f633009
+      internalID: -965923085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 293
+        width: 142
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ced4d2e1daa4f128717d13a37bbba2
+      internalID: -899341659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 297
+        width: 182
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852b6440fee742cbbb81495705b066b
+      internalID: 925649815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_64
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 299
+        width: 182
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d78bd3bfa6ed4a49af8eee9de81cbc2
+      internalID: 183249620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_65
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 338
+        width: 122
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4002cca42486049699b0ff3033922d6f
+      internalID: -674679928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_66
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 320
+        width: 130
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efbe08a33bf3446cb2c4f0bc00e5d2a
+      internalID: 1039847801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_67
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 320
+        width: 126
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718627df1d2764346a811edf0c037cb0
+      internalID: 2106296132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_68
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 324
+        width: 120
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8456e5dcbee7142f1a57841135be714b
+      internalID: -266813475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_69
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 332
+        width: 112
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad7a675c750f4fd09f8ccc40ce13694
+      internalID: 1080554689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 204
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9718ef91b0b54c2b94489687bf5aa99
+      internalID: -1930985305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_71
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 33
+        width: 204
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed44b14475bac4555bd2c53883e60f31
+      internalID: -1317170704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_72
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 33
+        width: 204
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b9bafe9f42431dbdc3ab38622abfa
+      internalID: -1907425913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_73
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 122
+        width: 144
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6a7a76a83ff4bcbb6919e640a8cd4f
+      internalID: 425037981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_75
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 225
+        width: 56
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3784e30885606429ca6eb92262e3ffcb
+      internalID: 226815365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_76
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 219
+        width: 64
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f282d585fa745478bcd3beba739b71
+      internalID: -830342624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_77
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 170
+        width: 130
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff48002fe2934a12aeb1d973515b617
+      internalID: 1377026828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_78
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 158
+        width: 128
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d70374ee70d431485475998bfe41a4
+      internalID: 81947560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_79
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 160
+        width: 124
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6e3e302a55c4771addca55d6125461
+      internalID: -27293379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_80
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 164
+        width: 116
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fec3692a1d24502b74b40d0f9ab474
+      internalID: -353403825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_83
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 68
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af612cc7fd10543e39ab76701da0586a
+      internalID: 561729283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_84
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 68
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1593c5a62bd40189cfd7839da971f1
+      internalID: -1869814045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_85
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 68
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6ee803d0b6b46f4bd919f3b3d66a48
+      internalID: 1947449610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_86
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 68
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b7a52e614248c381f154d6273c2d7
+      internalID: -289842050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_87
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 89
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26abec2d28a564a33a979cf7b63d168c
+      internalID: 2107202196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_88
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 89
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f630537cf7946a2a1b90225aca6b8f
+      internalID: -983633105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_89
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 89
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ca1b6c0b9a6465cad284942dc5a797
+      internalID: 2116423699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_90
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 89
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a4a740067bb4c8c8d7c615d4c39445
+      internalID: 1382989068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_91
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 89
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b996b192c03499398267dc2cb13b1f
+      internalID: -1352885259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_92
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 89
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d09699e107549a9a219b4d46e78d40
+      internalID: 1745266573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_93
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 89
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5dc5bf4298b4db1923d0bb5dc5503a
+      internalID: 1740066749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_94
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 89
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fbe1c3dfe4b46e2bd599376cf871f3
+      internalID: -1564179226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_95
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 128
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf537db935f44a381da9bfde79811b
+      internalID: 1710052594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_96
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 118
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b421ae787d34bbcbf5d56873554cfc
+      internalID: -148545067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_97
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 118
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795eb57728204f6281e14ea0f1052c7
+      internalID: 182377075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_98
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 53
+        width: 111
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f51cad07b9408a806a6a99f959800
+      internalID: -1104473604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_99
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 52
+        width: 112
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c25eb0722ae4391ae6119bda35dc0c
+      internalID: 836069979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_100
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 76
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1d481075a5040f68a558a667356e34
+      internalID: 594062593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_101
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 87
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4704c9e70ca948fcb2fcaa3c4bd6462
+      internalID: -1592784824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_102
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 76
+        width: 35
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6adcfcf9449a42448c379dfa305725f
+      internalID: -1555544428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2
+        width: 69
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31484878f6a0a424b8efae8139a55d72
+      internalID: 1587240196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_104
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2
+        width: 69
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46660aafe6d5b4acb9098a2b21111c69
+      internalID: 1257845255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_105
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2
+        width: 69
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a24f088eecd41c4931f9d7c3d6a7f2
+      internalID: 1856264536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_106
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 21
+        width: 69
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c19e753a45994231830e15c82764ba0
+      internalID: 125513182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_107
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 27
+        width: 757
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4bf54deab0e491295002408d38b12f
+      internalID: -919216960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_108
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 35
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b3314b131d545d08382786fa2984ef
+      internalID: 1089016980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_109
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 40
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b89e253d794d088b71bb33124dad6
+      internalID: 1540919285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quadmist_image0_110
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 4
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de5a106769d14760b1446a19e8ad530
+      internalID: 1130685023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      quadmist_image0_56: -1529378362
+      quadmist_image0_81: -73693484
+      quadmist_image0_36: -588939148
+      quadmist_image0_62: -899341659
+      quadmist_image0_22: -1017973557
+      quadmist_image0_63: 925649815
+      quadmist_image0_52: -1825143847
+      quadmist_image0_55: -1335871464
+      quadmist_image0_5: 807427517
+      quadmist_image0_70: -1930985305
+      quadmist_image0_12: -1214109434
+      quadmist_image0_67: 2106296132
+      quadmist_image0_27: -1945101499
+      quadmist_image0_47: 169510945
+      quadmist_image0_33: 1910741966
+      quadmist_image0_94: -1564179226
+      quadmist_image0_98: -1104473604
+      quadmist_image0_51: -282078159
+      quadmist_image0_21: 1231575360
+      quadmist_image0_13: 409263963
+      quadmist_image0_42: -1514109480
+      quadmist_image0_95: 1710052594
+      quadmist_image0_15: 524429683
+      quadmist_image0_105: 1856264536
+      quadmist_image0_9: 1594944047
+      quadmist_image0_71: -1317170704
+      quadmist_image0_93: 1740066749
+      quadmist_image0_8: -494655155
+      quadmist_image0_28: -1494084872
+      quadmist_image0_57: 670582201
+      quadmist_image0_35: -1388805334
+      quadmist_image0_53: -1863540429
+      quadmist_image0_59: -260965153
+      quadmist_image0_90: 1382989068
+      quadmist_image0_61: -965923085
+      quadmist_image0_108: 1089016980
+      quadmist_image0_6: -1154209858
+      quadmist_image0_77: 1377026828
+      quadmist_image0_29: 13508285
+      quadmist_image0_34: 1388591314
+      quadmist_image0_54: -213435468
+      quadmist_image0_30: -866468822
+      quadmist_image0_66: 1039847801
+      quadmist_image0_49: 926473452
+      quadmist_image0_50: -514787053
+      quadmist_image0_103: 1587240196
+      quadmist_image0_96: -148545067
+      quadmist_image0_99: 836069979
+      quadmist_image0_23: -579682150
+      quadmist_image0_86: -289842050
+      quadmist_image0_37: 975199887
+      quadmist_image0_41: -1256527973
+      quadmist_image0_64: 183249620
+      quadmist_image0_46: -35269946
+      quadmist_image0_100: 594062593
+      quadmist_image0_2: 621499388
+      quadmist_image0_109: 1540919285
+      quadmist_image0_69: 1080554689
+      quadmist_image0_79: -27293379
+      quadmist_image0_3: -1941369573
+      quadmist_image0_26: 1494148677
+      quadmist_image0_4: -1553447578
+      quadmist_image0_14: 696132828
+      quadmist_image0_24: 1872614607
+      quadmist_image0_32: -2057985657
+      quadmist_image0_76: -830342624
+      quadmist_image0_18: 240521026
+      quadmist_image0_102: -1555544428
+      quadmist_image0_65: -674679928
+      quadmist_image0_89: 2116423699
+      quadmist_image0_82: -1578146657
+      quadmist_image0_20: 1889469947
+      quadmist_image0_25: -1602340398
+      quadmist_image0_10: -1043654862
+      quadmist_image0_85: 1947449610
+      quadmist_image0_45: -580779628
+      quadmist_image0_78: 81947560
+      quadmist_image0_87: 2107202196
+      quadmist_image0_88: -983633105
+      quadmist_image0_84: -1869814045
+      quadmist_image0_31: -446863705
+      quadmist_image0_7: -1933166453
+      quadmist_image0_17: -1570650721
+      quadmist_image0_16: -1334207929
+      quadmist_image0_40: 387693944
+      quadmist_image0_72: -1907425913
+      quadmist_image0_0: 1923708873
+      quadmist_image0_97: 182377075
+      quadmist_image0_39: -890433284
+      quadmist_image0_80: -353403825
+      quadmist_image0_104: 1257845255
+      quadmist_image0_60: 1187091985
+      quadmist_image0_110: 1130685023
+      quadmist_image0_11: -1702901600
+      quadmist_image0_107: -919216960
+      quadmist_image0_73: 425037981
+      quadmist_image0_19: -1048830725
+      quadmist_image0_74: 1728979067
+      quadmist_image0_38: -298758857
+      quadmist_image0_43: 687988415
+      quadmist_image0_83: 561729283
+      quadmist_image0_106: 125513182
+      quadmist_image0_91: -1352885259
+      quadmist_image0_75: 226815365
+      quadmist_image0_48: -1466635022
+      quadmist_image0_68: -266813475
+      quadmist_image0_44: -1033634351
+      quadmist_image0_1: 1501230041
+      quadmist_image0_58: -1057851432
+      quadmist_image0_101: -1592784824
+      quadmist_image0_92: 1745266573
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
